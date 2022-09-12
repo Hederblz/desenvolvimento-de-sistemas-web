@@ -12,12 +12,10 @@ fun main(){
     var A:Int = scan.nextInt()
     println("Digite a razão : ")
     val R:Int = scan.nextInt()
-    var final:Int = A
 
     for (i in 1..10){
-        println(final)
-        final = A + R
+        println(A)
         A += R
     }
-
 }
+
