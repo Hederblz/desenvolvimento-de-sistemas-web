@@ -8,7 +8,7 @@ Herança, Polimorfismo, Encapsulamento, Abstração.
 
 3) O que é Polimorfismo e como utilizar?
 
-Polimorfismo permite que classes filhas usem metodos da classe pai com o mesmo comportamento ou de uma um resultado diferente, no kotlin o polimorfismo pode ser usado criando varios metodos com o mesmo nome porem com atributos diferentes.
+Polimorfismo permite que classes filhas usem métodos da classe pai com o mesmo comportamento ou de uma um resultado diferente, no kotlin o polimorfismo pode ser usado criando vários métodos com o mesmo nome porém com atributos diferentes.
 
 4) Aplicar o conceitos de O.O em um codigo
 
